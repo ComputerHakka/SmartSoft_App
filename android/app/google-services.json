@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "268732997047",
+    "project_id": "smartsoftbase",
+    "storage_bucket": "smartsoftbase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268732997047:android:83b86d8b59de9a9020dc32",
+        "android_client_info": {
+          "package_name": "com.example.smartsoft_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268732997047-30ss0dkna5asmhmtabcu9pro1sb0naq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbHKemBmWI_fkcdYIsxCzzlBXD3pltI10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268732997047-30ss0dkna5asmhmtabcu9pro1sb0naq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
